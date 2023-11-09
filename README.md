@@ -1,6 +1,6 @@
 # Elevator Control Panel
 
-This project acts as an elevator control panel. It has the following functionality:
+This project acts as an elevator control panel
 
 ## Getting started
 Navigate to the main folder and run the following commands in your command line:
